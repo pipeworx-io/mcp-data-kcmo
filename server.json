@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/data-kcmo",
   "title": "Data Kcmo",
   "description": "DataKansasCityMO MCP — Kansas City, MO open data (data.kcmo.org, Socrata SODA API).",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/data-kcmo",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-data-kcmo",
