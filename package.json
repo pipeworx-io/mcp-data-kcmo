@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-data-kcmo",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "DataKansasCityMO MCP — Kansas City, MO open data (data.kcmo.org, Socrata SODA API).",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-45cd1eb96431e47e76fce658d3ac499874011b4230f6187bba837b0884a34fdb",
-    "sourceCommit": "01241619b78233fd55d0e3612331499a63f03ae7"
+    "sourceHash": "v1-16624a7c33a41a6d99449d6a11bc610fa297054a438ad28dad03ac937979d66c",
+    "sourceCommit": "ba9dd6df5992aeb16ef2425ee86d1752c34ca636"
   }
 }
